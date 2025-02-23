@@ -36,15 +36,12 @@ Este é um projeto de estudo que recria a página de perfil do LinkedIn utilizan
 
 ### Frontend (React + Vite)
 
-1. Navegue até a pasta do frontend:
-   ```sh
-   cd frontend
-   ```
-2. Instale as dependências:
+
+1. Instale as dependências:
    ```sh
    npm install
    ```
-3. Inicie o projeto:
+2. Inicie o projeto:
    ```sh
    npm run dev
    ```
